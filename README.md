@@ -1,5 +1,6 @@
 # ColorNote
- A simplified & colorful note taking app made with React Native
+ A simplified & colorful note taking app made with React Native. User will be able to create, read, add & delete note.
+ http://johnnychai.com/color-note
  
  ## Introduction
 [![React Native](https://img.shields.io/badge/React%20Native-0.63.3-blue.svg?style=rounded-square)](https://facebook.github.io/react-native/)
