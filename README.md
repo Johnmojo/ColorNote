@@ -2,6 +2,9 @@
  A simplified & colorful note taking app made with React Native. User will be able to create, read, add & delete note.
  http://johnnychai.com/color-note
  
+ External dependency used: 
+ https://www.npmjs.com/package/uuid and https://www.npmjs.com/package/react-native-get-random-values
+ 
  ## Introduction
 [![React Native](https://img.shields.io/badge/React%20Native-0.63.3-blue.svg?style=rounded-square)](https://facebook.github.io/react-native/)
 [![Node.js](https://img.shields.io/badge/Node.js-v.12.8.3-green.svg?style=rounded-square)](https://nodejs.org/)
